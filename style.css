@@ -1,0 +1,92 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+}
+section{
+    height: 550px;
+    padding: 20px;
+}
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 40px;
+}
+h3{
+    font-size: 25px;
+}
+.pink-highlight{
+    color: rgb(160, 16, 76);
+}
+.half-width{
+    width: 35%;
+    float: left;
+    padding-top: 30px;
+    margin-left: 20px;
+}
+.half-width img{
+    width: 150%;
+}
+.button{
+    text-decoration: none;
+    background-image: linear-gradient(180deg, rgb(141, 95, 95),rgb(172, 38, 38));
+    color: white;
+    padding: 10px 25px;
+    border-radius: 5px;
+}
+#header{
+    background-image: url(personal-website/header-bg.png);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+p{
+    color: dimgray;
+}
+.half2-width{
+    width: 35%;
+    float: left;
+    margin: 50px;
+}
+.half2-width img{
+    width: 110%
+}
+#biography{
+    background-image: url(personal-website/biography-bg.png);
+    background-repeat: no-repeat;
+    background-position: bottom;
+}
+#mid{
+    text-align: center;
+}
+.work img{
+    width: 100%;
+
+}
+.work{
+    width: 30%;
+    float: left;
+    margin: 5px;
+    padding: 10px;
+}
+#latest-work{
+    background-image: url(personal-website/latest-work-bg.png);
+    background-position: center;
+}
+.ending{
+    text-align: center;
+    background-image: url(personal-website/footer-bg.png);
+    background-position: center;
+}
+.last-part{
+    margin:5% 30%;
+}
+#mail{
+    background-image: linear-gradient(150deg, hotpink,#ff0080);
+    padding: 10px;
+    border-radius: 5px;
+    color: white;
+}
+footer p{
+    font-size: 15px;
+    font-weight: bolder;
+}
