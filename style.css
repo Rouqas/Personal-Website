@@ -9,9 +9,11 @@ section{
 }
 h1{
     font-size: 50px;
+    
 }
 h2{
     font-size: 40px;
+    font-weight: 500;
 }
 h3{
     font-size: 25px;
@@ -89,6 +91,6 @@ p{
 }
 footer{
     font-size: 15px;
-    font-weight: bolder;
+   
     text-align: center;
 }
